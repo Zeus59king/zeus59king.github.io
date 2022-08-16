@@ -1,0 +1,110 @@
+p{color: white;
+	font-size: 14}
+	.lime {
+		color: limegreen;
+		font-size: 20px;
+	}
+	.Pxsize {
+		font-size: 25px;
+	}
+	#gambit {
+		background-color: ghostwhite;
+
+	}
+	#Button {
+		hight: 50px;
+		width: 100px;
+		color: white;
+		background-color: lightgreen;
+		border-radius: 5px;}
+	#Banner {
+		height: 150;
+		width: 1860;
+		border: black;
+		border-radius: 5px;
+		Background-color: darkorange;
+		margin-bottom: 10px;
+		text-decoration: none;
+	}
+	#Title {
+		color: white;
+		text-decoration: none;
+	}
+	#subtitle {
+		color: white;
+	}
+	#triv {
+		color: darkcyan;
+	}
+	.wrap-list {
+width: 1830px;
+border-radius: 5px;
+border: 5px dashed gold;
+padding: 5px;
+	}
+	.list {
+width: 1850px;
+border-radius: 5px;
+border:gold;
+	}
+	.red {
+		color: red;
+	}
+	.green {
+		color: green;
+	}
+	.blue {
+		color: blue;
+	}
+	#Text-1 {
+		height: 150px;
+		width: 150px;
+		background-color: red;
+		display: inline-block;
+		position: relative;
+		top: 750px;
+		left: 50%;
+		z-index: 1;
+	}
+	#Text-2 {
+		height: 150px;
+		width: 150px;
+		background-color: green;
+		display: inline-block;
+		position: absolute;
+		z-index: 2;
+	}
+	#text-3 {
+		height: 150px;
+		width: 150px;
+		background-color: blue;
+		display: inline-block;
+		position: fixed;
+		left: 25%;
+	}
+	#background-H {
+		height: 2040px;
+	}
+	#navitem {
+		list-style-type: none;
+		display: inline;
+		margin-right:.3em;
+		padding:2px 5px;
+	}
+	#navmenu {
+		text-align: center;
+		background-color: orangered;
+		color: white;
+	}
+	a:link{
+		color: blue;
+	}
+	a:visited{
+		color: purple;
+	}
+	a:hover{
+		color: black;
+	}
+	a:active{
+		color: white;
+	}
